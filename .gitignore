@@ -1,0 +1,7 @@
+components/symfony-rest-edition/web/bundles/
+components/symfony-rest-edition/app/cache/*
+components/symfony-rest-edition/app/logs/*
+components/symfony-rest-edition/build/
+components/symfony-rest-edition/vendor/
+components/symfony-rest-edition/bin/
+components/symfony-rest-edition/composer.phar
