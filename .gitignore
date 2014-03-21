@@ -1,3 +1,4 @@
+components/connect-auth/node_modules/
 components/symfony-rest-edition/web/bundles/
 components/symfony-rest-edition/app/cache/*
 components/symfony-rest-edition/app/logs/*
@@ -8,3 +9,4 @@ components/symfony-rest-edition/composer.phar
 components/DomCrawler/vendor/
 components/DomCrawler/composer.lock
 components/DomCrawler/phpunit.xml
+lixo
