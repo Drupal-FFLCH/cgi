@@ -8,3 +8,4 @@ components/symfony-rest-edition/composer.phar
 components/DomCrawler/vendor/
 components/DomCrawler/composer.lock
 components/DomCrawler/phpunit.xml
+lixo
