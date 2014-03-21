@@ -9,4 +9,8 @@ components/symfony-rest-edition/composer.phar
 components/DomCrawler/vendor/
 components/DomCrawler/composer.lock
 components/DomCrawler/phpunit.xml
+<<<<<<< HEAD
 lixoaaddffl
+=======
+lixo
+>>>>>>> 57182bdbd3999e5d5ec7dff46657ebe5af86a7d5
