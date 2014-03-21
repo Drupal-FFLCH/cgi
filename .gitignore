@@ -5,3 +5,6 @@ components/symfony-rest-edition/build/
 components/symfony-rest-edition/vendor/
 components/symfony-rest-edition/bin/
 components/symfony-rest-edition/composer.phar
+components/DomCrawler/vendor/
+components/DomCrawler/composer.lock
+components/DomCrawler/phpunit.xml
