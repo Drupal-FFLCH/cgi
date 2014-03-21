@@ -1,0 +1,7 @@
+components/logando/svn/
+components/logando/_site/
+components/logando/build/
+components/logando/pkg/
+components/logando/*.swp
+components/logando/DS_Store
+components/logando/node_modules/
